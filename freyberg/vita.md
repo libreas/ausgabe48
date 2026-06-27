@@ -1,0 +1,4 @@
+---
+
+**Dr. Linda Freyberg** (<https://orcid.org/0000-0002-4620-7571>) ist Mitherausgeberin und Redakteurin der LIBREAS.
+Sie hat zum Thema "Ikonizität der Information. Die Erkenntnisfunktion struktureller und gestalteter Bildlichkeit in der digitalen Wissensorganisation" an der Leuphana Universität promoviert. Sie ist wissenschaftliche Mitarbeiterin an der BBF | Bibliothek für Bildungsgeschichtliche Forschung des DIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation in Berlin (<https://www.dipf.de/de/institut/personen/freyberg>) und hat dort die Co-Leitung des DHELab (<https://bbf.dipf.de/de/dhelab>) inne.
