@@ -1,0 +1,6 @@
+---
+
+**Dr. Linda Freyberg** (<https://orcid.org/0000-0002-4620-7571>) ist Mitherausgeberin und Redakteurin der LIBREAS.
+Sie hat zum Thema "Ikonizität der Information. Die Erkenntnisfunktion struktureller und gestalteter Bildlichkeit in der digitalen Wissensorganisation" an der Leuphana Universität promoviert. Sie ist wissenschaftliche Mitarbeiterin an der BBF | Bibliothek für Bildungsgeschichtliche Forschung des DIPF | Leibniz-Institut für Bildungsforschung und Bildungsinformation in Berlin (<https://www.dipf.de/de/institut/personen/freyberg>) und hat dort die Co-Leitung des DHELab (<https://bbf.dipf.de/de/dhelab>) inne.  
+
+**Dr. Dirk Wissen** ist promovierter Bibliotheks- und Literaturwissenschaftler sowie leidenschaftlicher Bibliothekar. Seine Dissertation hat den Titel "Zukunft der Bibliographie – Bibliographie der Zukunft". Wissen ist seit 30 Jahren Mitglied des BIB - Berufsverband Information Bibliothek e.V., bei dem er zehn Jahre, von 2015 bis 2026, Mitglied im BIB-Bundesvorstand und Herausgeber der Fach- und Verbandszeitschrift "BuB – Forum Bibliothek und Information war.
