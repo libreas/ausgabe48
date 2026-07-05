@@ -1,0 +1,2 @@
+---
+**Charlotte Lenz**, hat Bibliotheksmanagement an der Fachhochschule Potsdam sowie Bibliotheks- und Informationswissenschaften an der HU Berlin studiert. Nach einer langjährigen Anstellung als wissenschaftliche Bibliothekarin in der Bibliothek des Deutschen Historischen Museums betreut sie nun die Bibliothek der Gedenkstätte Sachsenhausen.
