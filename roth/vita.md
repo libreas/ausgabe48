@@ -1,0 +1,2 @@
+---
+**Dr. phil. Alexandra Roth** ist Lektorin bei der Münchner Stadtbibliothek. Sie hat in Bibliothekswissenschaft promoviert und arbeitet vor allem zu medienwissenschaftlichen und bibliothekspädagogischen Themen.
