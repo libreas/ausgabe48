@@ -18,8 +18,10 @@ zuerst denkt, und das laufende Insektensterben, sind alltägliche
 Berührungspunkte, die durch zunehmende Globalisierung und Klimawandel
 immer weiter in unser Leben eingreifen und an Bedeutung gewinnen.
 
-![Einer der drei Schaukästen der Wanderausstellung gibt
+![Abbildung 1: Einer der drei Schaukästen der Wanderausstellung gibt
 einen Einblick in Schädlingsbefall und seine Folgen.](img/abb1.jpg)
+
+<!-- Ein blassgelber, hölzerner Ausstellungsschrank: Oben die Überschrift "Im Küchenschrank und im Museumsdepot: Altbekannte Schädlinge". Darunter sind mehrere Ausstellungsstücke zu sehen, insbesondere ausgestopfte und zerfressene Präparate einer Eule und einer Katze, sowie befallene Insekten- und Pflanzenkästen, Stoffreste und ein Buch. -->
 
 Die angesprochene Ausstellung leistete einen kleinen Beitrag zu dieser
 Kommunikation. Sie gliederte sich in drei Teile, an denen sich auch der
@@ -154,8 +156,10 @@ Papierfischchen ist nicht einmal das Anbringen eines Lockstoffs
 erforderlich, da sie von dem Pappkarton angezogen werden, aus dem die
 Falle selbst besteht.
 
-![Eine Klebefalle zur Überwachung von Papierfischchen und
+![Abbildung 2: Eine Klebefalle zur Überwachung von Papierfischchen und
 anderen krabbelnden Insekten.](img/abb2.jpg)
+
+<!-- In einer Zimmerecke steht eine Pappfalle in Form eines Trapez auf dem Boden. Sie ist oberseitig beschriftet mit "Monitoring-System" und an der zugewandten Seite mit "without active ingredient". -->
 
 In den Objektsammlungen kommen zusätzlich noch andere Varianten von
 Insektenfallen zum Einsatz. Dazu zählen beispielsweise mit Pheromonen

@@ -11,8 +11,9 @@ BuB erschien seit 2015 monatlich die Interviewreihe "Wissen fragt ...
 auf einen Espresso mit ...", in dessen Rahmen er 102 Interviews zum
 Thema "Atmosphäre von Bibliotheken" führte.
 
-![Abb.: Auf einen Espresso mit Dirk Wissen](img/foto-dirk-linda.jpeg)
+![Abbildung 1: Auf einen Espresso mit Dirk Wissen](img/foto-dirk-linda.jpeg)
 
+<!-- Ein Selfie von Dirk Wissen und Linda Freyberg. Beide lächeln in die Kamera und Dirk Wissen hält eine Tasse mit Espesso vor die Linse. -->
 
 *Linda Freyberg (LF): Zunächst zu den Anfängen: Seit 2009 hattest du
 eine Gesprächsreihe im Rahmen von Lesungen und Neuerscheinungen.*

@@ -102,6 +102,8 @@ Bibliotheks- und Informationsstudium vertiefen konnte, und von dort,
 
 ![Kathrin Brannemann, Foto: DNB, Stephan Jockel, CC-BY-SA 3.0 DE](img/abb1.jpg)
 
+<!-- Porträtfoto von Kathrin Brannemann mit hellblauer Bluse, dunkelblauem Jacket, Brille und blonden, mittellangen Haaren. -->
+
 **Mögen Sie unseren Leserinnen und Lesern kurz erzählen, welche
 Stationen auf Ihrem Weg zur Direktorin unseres Frankfurter Hauses
 prägend waren?**
