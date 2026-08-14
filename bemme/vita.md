@@ -1,0 +1,6 @@
+---
+**Alexander Winkler** ist wissenschaftlicher Angestellter bei digiS, dem Forschungs- und Kompetenzzentrum Digitalisierung Berlin (https://www.digis-berlin.de/), wo er sich aktuell insbesondere mit Metadatenqualität, Linked Data, Datennutzung und KI im GLAM-Sektor beschäftigt. Er hat Latinistik und Italianstik, Renaissancewissenschaften und Bibliotheks- und Informationswissenschaften in München, Pisa, Warwick und Berlin studiert und über ein neulateinisch-italianistisches Thema promoviert. ORCID: <https://orcid.org/0000-0002-9145-7238> | Mastodon: awinkler@openbiblio.social
+
+
+**Jens Bemme** studierte Verkehrswirtschaft und Lateinamerikastudien. Als Mitarbeiter der SLUB Dresden begleitet er landeskundliche Open-Citizen-Science-Initiativen insbesondere mit Werkzeugen, Daten, Methoden und Gemeinschaften der Wikimedia-Bewegung. Tafellieder, Tanzkarten und die gemeinfreien Publikationen historischer Geschichtsvereine stehen derzeit im Fokus.
+ORCID: <https://orcid.org/0000-0001-6860-0924> | Mastodon: JensB@openbiblio.social
